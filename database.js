@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 const mongodb_Uri = process.env.MONGO_URI;
 
 
-console.log("Afaq-Khan-Niazi");
+console.log("Afaq-Khan");
 
 const connectDB = async () => {
     try {
